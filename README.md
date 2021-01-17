@@ -8,4 +8,4 @@ In this Repo, I'll be posting codes I wrote in Probelm Solving section of Hacker
 These solutions are specifically in Python lang, however, can be solved in other programming languages as well. But, PYTHON IS LOVE.
 
 # NOTE
-Whatever solutions are provided, I have only included the code requiered by the user to write i.e. the target function, rest requiered code is already present in most of the questions by the website. 
+Whatever solutions are provided, I have only included the code requiered by the user to write i.e. the target function, rest required code is already present in most of the questions by the website. 
